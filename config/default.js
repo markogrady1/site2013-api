@@ -2,7 +2,7 @@ module.exports = {
   port: 3311,
   db: {
     host: 'localhost',
-    port: 3309,
+    port: 3306,
     user: 'test',
     database: 'blog-api',
     password: 'ppc',
